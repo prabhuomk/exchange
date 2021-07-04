@@ -12,7 +12,7 @@ function start(){
         cardbody.setAttribute('class','card-body');
         const h=document.createElement('h5');
         h.setAttribute('class','card-title');
-        h.innerHTML="EXCHANGE RATE"
+        h.innerHTML="THIRUKKURAL"
         const t1=document.createElement('p');
         t1.setAttribute('class','title');
         t1.innerHTML="KURAL";
